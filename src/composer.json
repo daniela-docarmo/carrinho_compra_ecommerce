@@ -1,0 +1,15 @@
+{
+    "name": "danielacarmo/ecommerce",
+    "autoload": {
+        "psr-4": {
+            "Danielacarmo\\Ecommerce\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "daniela",
+            "email": "danidocarmo9745@gmail.com"
+        }
+    ],
+    "require": {}
+}
