@@ -2,7 +2,7 @@
     "name": "danielacarmo/ecommerce",
     "autoload": {
         "psr-4": {
-            "Danielacarmo\\Ecommerce\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
